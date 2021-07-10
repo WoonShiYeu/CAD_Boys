@@ -127,6 +127,8 @@ end
 endmodule
 ```
 4x4 matrix keypad uses a combination of four rows and four columns as shown in Figure 1 to provide button states to the host device. Underneath each key is a push button, with one end connected to one row, and the other end connected to one column. However, there is no connection between rows and also column but the button make it connect if pressed. Thus, to interface the keypad with DE1 board, the rows and columns pins are connected to the GPIO pins of the DE1 board and make the proper pin assignment. Thus, to scan which button is pressed, the users need to scan it column by column and row by row every certain short period. The row pins should be connected to input port and then the column pins are connected to the output port.
+
+
 ![image](https://user-images.githubusercontent.com/87056506/125169479-eb336200-e1dc-11eb-9367-8af8d2c1bd9f.png)
 Figure 1 : 4x4 Matrix Keypad columns and rows
 
