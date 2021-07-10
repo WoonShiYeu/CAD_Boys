@@ -16,3 +16,6 @@ GROUP :  		CAD BOYS
 |WOON SHI YEU|A18KE0298|
 
 LECTURER :  DR MUHAMMAD MUN’IM BIN AHMAD ZABIDI
+
+READ ME:
+We have posting all of the verilog codes into their own files accociated with the explaination.
