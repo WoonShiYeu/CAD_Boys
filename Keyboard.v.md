@@ -130,5 +130,6 @@ endmodule
 
 
 ![image](https://user-images.githubusercontent.com/87056506/125169479-eb336200-e1dc-11eb-9367-8af8d2c1bd9f.png)
+
 Figure 1 : 4x4 Matrix Keypad columns and rows
 
