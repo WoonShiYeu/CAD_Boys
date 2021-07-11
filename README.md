@@ -51,4 +51,19 @@ Male to Female jumper wires
 Male to Male jumper wires
 
 2.2 Software
+
 Quartus II Version 13.0 and above
+
+3.0 Hardware Setup
+
+Diagram below shows the pin assignment of the program in FPGA
+
+![image](https://user-images.githubusercontent.com/87243212/125186312-3c366b00-e25c-11eb-8a2e-bebad3f4f376.png)
+
+![image](https://user-images.githubusercontent.com/87243212/125186288-17da8e80-e25c-11eb-98bd-59a60ec6a4a7.png)
+
+Diagram below shows the connection of the components to the FPGA
+
+![20210711_161532](https://user-images.githubusercontent.com/87243212/125187710-8c64fb80-e263-11eb-8679-30c590bd2a5a.jpg)
+
+
