@@ -36,13 +36,19 @@ In this Multiplication game, there are a few rules that we need to follow. The r
 2.0 Prerequisites
 
 2.1 Hardware
-1x ALTERA FPGA CycloneII EP2C5T144 Learning Board Development Board/n
-2x Common anode seven segment displays/n
-6x Common cathode seven segment displays/n
-3x Blue LEDs/n
-11x 1kΩ resistor/n
-Male to Female jumper wires/n
-Male to Male jumper wires/n
+1x ALTERA FPGA CycloneII EP2C5T144 Learning Board Development Board 
+
+2x Common anode seven segment displays
+
+6x Common cathode seven segment displays
+
+3x Blue LEDs
+
+11x 1kΩ resistor
+
+Male to Female jumper wires
+
+Male to Male jumper wires
 
 2.2 Software
 Quartus II Version 13.0 and above
