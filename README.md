@@ -66,4 +66,26 @@ Diagram below shows the connection of the components to the FPGA
 
 ![20210711_161532](https://user-images.githubusercontent.com/87243212/125187777-d51cb480-e263-11eb-8010-26ff0aa5a241.jpg)
 
+4.0 Software Setup
+
+First, we need to compile all the codes in the files to check whether there is any error. If there is any, locate it and fix it.
+
+Diagram below shows the compilation report of the Multiplicationgame.v
+
+![image](https://user-images.githubusercontent.com/87243212/125187962-b965de00-e264-11eb-8c86-063f2d2d175d.png)
+
+Then, we need to assign every input and output to a pin location on the FPGA. This can be done by going to Assignment>pin planner at the taskbar menu.
+
+Diagram below shows the pin assignment of the input and output.
+
+![image](https://user-images.githubusercontent.com/87243212/125188230-a30c5200-e265-11eb-95a1-a78eec0b732a.png)
+
+Next, we need to program the output.sof file by going to the Tools>Programmer at the taskbar menu.
+
+Diagram below shows the programmer windows when we were about to program the output file to the FPGA.
+
+![image](https://user-images.githubusercontent.com/87243212/125188334-1f069a00-e266-11eb-95ce-11a0909deec3.png)
+
+Press the start button and the program will be succesfully loaded into the FPGA.
+
 
