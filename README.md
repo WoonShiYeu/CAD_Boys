@@ -20,7 +20,7 @@ LECTURER :  DR MUHAMMAD MUN’IM BIN AHMAD ZABIDI
 READ ME:
 We have posted all of the verilog codes into their own files accociated with the explaination.
 
-1.0 Introduction
+**1.0 Introduction**
 
 In this Multiplication game, there are a few rules that we need to follow. The rules are as follow.
 
@@ -33,9 +33,9 @@ In this Multiplication game, there are a few rules that we need to follow. The r
 6.     Marks will be displayed after the game.
 
 
-2.0 Prerequisites
+**2.0 Prerequisites**
 
-2.1 Hardware
+**2.1 Hardware**
 1x ALTERA FPGA CycloneII EP2C5T144 Learning Board Development Board 
 
 2x Common anode seven segment displays
@@ -50,11 +50,11 @@ Male to Female jumper wires
 
 Male to Male jumper wires
 
-2.2 Software
+**2.2 Software**
 
 Quartus II Version 13.0 and above
 
-3.0 Hardware Setup
+**3.0 Hardware Setup**
 
 Diagram below shows the pin assignment of the program in FPGA
 
@@ -66,7 +66,7 @@ Diagram below shows the connection of the components to the FPGA
 
 ![20210711_161532](https://user-images.githubusercontent.com/87243212/125187777-d51cb480-e263-11eb-8010-26ff0aa5a241.jpg)
 
-4.0 Software Setup
+**4.0 Software Setup**
 
 First, we need to compile all the codes in the files to check whether there is any error. If there is any, locate it and fix it.
 
