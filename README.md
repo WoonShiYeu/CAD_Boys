@@ -64,6 +64,6 @@ Diagram below shows the pin assignment of the program in FPGA
 
 Diagram below shows the connection of the components to the FPGA
 
-![20210711_161532](https://user-images.githubusercontent.com/87243212/125187710-8c64fb80-e263-11eb-8679-30c590bd2a5a.jpg)
+![20210711_161532](https://user-images.githubusercontent.com/87243212/125187777-d51cb480-e263-11eb-8010-26ff0aa5a241.jpg)
 
 
