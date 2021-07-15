@@ -91,4 +91,5 @@ Diagram below shows the programmer windows when we were about to program the out
 
 Press the start button and the program will be succesfully loaded into the FPGA.
 
+youtube link that direct to hardware demonstration part: https://www.youtube.com/watch?v=NTQhZyFnFgo
 
